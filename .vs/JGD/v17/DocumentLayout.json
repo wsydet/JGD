@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\d.UnityProject\\JGD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3B6240-ACD6-48EF-8CE3-2804EDA38714}|Assembly-CSharp.csproj|G:\\d.UnityProject\\JGD\\assets\\main\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3B6240-ACD6-48EF-8CE3-2804EDA38714}|Assembly-CSharp.csproj|solutionrelative:assets\\main\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3B6240-ACD6-48EF-8CE3-2804EDA38714}|Assembly-CSharp.csproj|G:\\d.UnityProject\\JGD\\assets\\main\\scripts\\player\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3B6240-ACD6-48EF-8CE3-2804EDA38714}|Assembly-CSharp.csproj|solutionrelative:assets\\main\\scripts\\player\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3B6240-ACD6-48EF-8CE3-2804EDA38714}|Assembly-CSharp.csproj|G:\\d.UnityProject\\JGD\\assets\\main\\scripts\\statemachine\\playerstatemachine\\statemachine\\statemachine_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3B6240-ACD6-48EF-8CE3-2804EDA38714}|Assembly-CSharp.csproj|solutionrelative:assets\\main\\scripts\\statemachine\\playerstatemachine\\statemachine\\statemachine_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3B6240-ACD6-48EF-8CE3-2804EDA38714}|Assembly-CSharp.csproj|g:\\d.unityproject\\jgd\\assets\\main\\scripts\\statemachine\\playerstatemachine\\playerstatelayers\\state_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3B6240-ACD6-48EF-8CE3-2804EDA38714}|Assembly-CSharp.csproj|solutionrelative:assets\\main\\scripts\\statemachine\\playerstatemachine\\playerstatelayers\\state_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3B6240-ACD6-48EF-8CE3-2804EDA38714}|Assembly-CSharp.csproj|G:\\d.UnityProject\\JGD\\assets\\main\\scripts\\statemachine\\playerstatemachine\\playerstates\\state_player_idle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3B6240-ACD6-48EF-8CE3-2804EDA38714}|Assembly-CSharp.csproj|solutionrelative:assets\\main\\scripts\\statemachine\\playerstatemachine\\playerstates\\state_player_idle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3B6240-ACD6-48EF-8CE3-2804EDA38714}|Assembly-CSharp.csproj|G:\\d.UnityProject\\JGD\\assets\\main\\utilities\\globalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3B6240-ACD6-48EF-8CE3-2804EDA38714}|Assembly-CSharp.csproj|solutionrelative:assets\\main\\utilities\\globalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3B6240-ACD6-48EF-8CE3-2804EDA38714}|Assembly-CSharp.csproj|G:\\d.UnityProject\\JGD\\assets\\main\\utilities\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3B6240-ACD6-48EF-8CE3-2804EDA38714}|Assembly-CSharp.csproj|solutionrelative:assets\\main\\utilities\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3B6240-ACD6-48EF-8CE3-2804EDA38714}|Assembly-CSharp.csproj|G:\\d.UnityProject\\JGD\\assets\\main\\scripts\\observer\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3B6240-ACD6-48EF-8CE3-2804EDA38714}|Assembly-CSharp.csproj|solutionrelative:assets\\main\\scripts\\observer\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Observer.cs",
+              "DocumentMoniker": "G:\\d.UnityProject\\JGD\\Assets\\Main\\Scripts\\Observer\\Observer.cs",
+              "RelativeDocumentMoniker": "Assets\\Main\\Scripts\\Observer\\Observer.cs",
+              "ToolTip": "G:\\d.UnityProject\\JGD\\Assets\\Main\\Scripts\\Observer\\Observer.cs",
+              "RelativeToolTip": "Assets\\Main\\Scripts\\Observer\\Observer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvx4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:25:50.518Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "G:\\d.UnityProject\\JGD\\Assets\\Main\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Main\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "G:\\d.UnityProject\\JGD\\Assets\\Main\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Main\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:22:16.074Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StateMachine_Player.cs",
+              "DocumentMoniker": "G:\\d.UnityProject\\JGD\\Assets\\Main\\Scripts\\StateMachine\\PlayerStateMachine\\StateMachine\\StateMachine_Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Main\\Scripts\\StateMachine\\PlayerStateMachine\\StateMachine\\StateMachine_Player.cs",
+              "ToolTip": "G:\\d.UnityProject\\JGD\\Assets\\Main\\Scripts\\StateMachine\\PlayerStateMachine\\StateMachine\\StateMachine_Player.cs",
+              "RelativeToolTip": "Assets\\Main\\Scripts\\StateMachine\\PlayerStateMachine\\StateMachine\\StateMachine_Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:21:40.696Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "State_Player.cs",
+              "DocumentMoniker": "G:\\d.UnityProject\\JGD\\Assets\\Main\\Scripts\\StateMachine\\PlayerStateMachine\\PlayerStateLayers\\State_Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Main\\Scripts\\StateMachine\\PlayerStateMachine\\PlayerStateLayers\\State_Player.cs",
+              "ToolTip": "G:\\d.UnityProject\\JGD\\Assets\\Main\\Scripts\\StateMachine\\PlayerStateMachine\\PlayerStateLayers\\State_Player.cs",
+              "RelativeToolTip": "Assets\\Main\\Scripts\\StateMachine\\PlayerStateMachine\\PlayerStateLayers\\State_Player.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAIUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:21:11.273Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "G:\\d.UnityProject\\JGD\\Assets\\Main\\Utilities\\Utility.cs",
+              "RelativeDocumentMoniker": "Assets\\Main\\Utilities\\Utility.cs",
+              "ToolTip": "G:\\d.UnityProject\\JGD\\Assets\\Main\\Utilities\\Utility.cs",
+              "RelativeToolTip": "Assets\\Main\\Utilities\\Utility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:23:04.2Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerInput.cs",
+              "DocumentMoniker": "G:\\d.UnityProject\\JGD\\Assets\\Main\\Scripts\\Player\\PlayerInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Main\\Scripts\\Player\\PlayerInput.cs",
+              "ToolTip": "G:\\d.UnityProject\\JGD\\Assets\\Main\\Scripts\\Player\\PlayerInput.cs",
+              "RelativeToolTip": "Assets\\Main\\Scripts\\Player\\PlayerInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T09:30:25.201Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "State_Player_Idle.cs",
+              "DocumentMoniker": "G:\\d.UnityProject\\JGD\\Assets\\Main\\Scripts\\StateMachine\\PlayerStateMachine\\PlayerStates\\State_Player_Idle.cs",
+              "RelativeDocumentMoniker": "Assets\\Main\\Scripts\\StateMachine\\PlayerStateMachine\\PlayerStates\\State_Player_Idle.cs",
+              "ToolTip": "G:\\d.UnityProject\\JGD\\Assets\\Main\\Scripts\\StateMachine\\PlayerStateMachine\\PlayerStates\\State_Player_Idle.cs",
+              "RelativeToolTip": "Assets\\Main\\Scripts\\StateMachine\\PlayerStateMachine\\PlayerStates\\State_Player_Idle.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T09:22:28.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GlobalInfo.cs",
+              "DocumentMoniker": "G:\\d.UnityProject\\JGD\\Assets\\Main\\Utilities\\GlobalInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Main\\Utilities\\GlobalInfo.cs",
+              "ToolTip": "G:\\d.UnityProject\\JGD\\Assets\\Main\\Utilities\\GlobalInfo.cs",
+              "RelativeToolTip": "Assets\\Main\\Utilities\\GlobalInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T09:18:40.93Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
